@@ -7,11 +7,11 @@
 
 ### **Foldername**: DS_TheBridgeBBK_Feb2023
 
-***Repository link:*** https://github.com/Mlcruz9/DS_TheBridgeBBK_FBIL2023.git
+***Repository link:*** https://github.com/Mlcruz9/DS_TheBridgeBBK_MBIL2023.git
 
 *To git clone by https:*
 
-"git clone https://github.com/Mlcruz9/DS_TheBridgeBBK_FBIL2023.git"
+"git clone https://github.com/Mlcruz9/DS_TheBridgeBBK_MBIL2023.git"
 
 - https://developers.google.com/machine-learning/glossary
 
