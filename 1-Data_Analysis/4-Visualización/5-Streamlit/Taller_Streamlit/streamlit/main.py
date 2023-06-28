@@ -11,3 +11,5 @@ path_csv = 'data/red_recarga_acceso_publico_2021.csv'
 df = pd.read_csv(path_csv, sep=';')
 
 st.dataframe(df)
+
+st.balloons()
